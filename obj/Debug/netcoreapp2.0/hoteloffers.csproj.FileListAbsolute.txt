@@ -1,0 +1,11 @@
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\bin\Debug\netcoreapp2.0\hoteloffers.deps.json
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\bin\Debug\netcoreapp2.0\hoteloffers.runtimeconfig.json
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\bin\Debug\netcoreapp2.0\hoteloffers.runtimeconfig.dev.json
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\bin\Debug\netcoreapp2.0\hoteloffers.dll
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\obj\Debug\netcoreapp2.0\hoteloffers.csprojResolveAssemblyReference.cache
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\obj\Debug\netcoreapp2.0\hoteloffers.csproj.CoreCompileInputs.cache
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\obj\Debug\netcoreapp2.0\hoteloffers.AssemblyInfoInputs.cache
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\obj\Debug\netcoreapp2.0\hoteloffers.AssemblyInfo.cs
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\bin\Debug\netcoreapp2.0\hoteloffers.pdb
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\obj\Debug\netcoreapp2.0\hoteloffers.dll
+C:\Users\hussi_000.JUMAN\source\repos\hoteloffers\hoteloffers\obj\Debug\netcoreapp2.0\hoteloffers.pdb
